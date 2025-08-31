@@ -1,0 +1,17 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Models and results
+models/
+results/
+
+# Large data files
+data/
+
+# Neuroimaging and numpy files
+*.npy
+*.nii
+*.nii.gz
